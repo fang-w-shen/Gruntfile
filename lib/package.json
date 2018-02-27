@@ -1,0 +1,10 @@
+{
+    "description": "DevDependencies",
+    "author": "Fang-Wen Shen",
+    "license": "MIT",
+    "name": "DevDependencies",
+    "devDependencies": {
+        "grunt": "^1.0.2",
+        "grunt-contrib-watch": "^0.6.1"
+    }
+}
